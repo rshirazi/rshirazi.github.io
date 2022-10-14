@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. 
+This is the base Jekyll theme. Test 1.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
