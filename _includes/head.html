@@ -1,0 +1,39 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <!-- Twitter Card metadata for social -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@RoxanneShirazi" />
+  <meta name="twitter:title" content="{{ page.title }}" />
+  <meta name="twitter:description" content="{{ post.excerpt }}" />
+  <meta name="twitter:image" content="{{ site.baseurl }}/assets/images/logo.jpg">
+
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.title }}
+    {% else %}
+      {{ page.title }} &middot; {{ site.title }}
+    {% endif %}
+  </title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet"> 
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css" type="text/css">
+  <link rel="icon" type="image/png" sizes="192x192" href="{{ site.baseurl }}/assets/favicon.png">
+  <link rel="shortcut icon" href="{{ site.baseurl }}/assets/favicon.ico">
+  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="{{ site.baseurl }}/assets/apple-touch-icon.png">
+  
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml">
+
+  <!-- Dublin Core metadata for Zotero -->
+  <meta property="dc:title" content="{{ page.title }}" />
+  <meta property="dc:creator" content="{% if page.author %}{{ page.author }}{% else %}{{ site.author.name }}{% endif %}" />
+  <meta property="dc:identifier" content="{{ resource_url }}" />
+  {% if page.editor %}<meta property="dc:contributor" content="{{ page.editor }}" />{% endif %}
+  {% if page.publication-date %}<meta property="dc:date" content="{{ page.publication-date }}" />{% endif %}
+  {% if page.rights %}<meta property="dc:rights" content="{{ page.rights }}" />{% endif %}
+  <meta property="dc:source" content="{% if page.source %}{{ page.source }}{% else %}{{ site.title }}{% endif %}" />
+</head>

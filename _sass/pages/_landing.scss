@@ -1,0 +1,91 @@
+/**
+ * _landing.scss
+ * Styles for the landing page
+ */
+
+.landing-title {
+    color: $post-title-color;
+    padding-bottom: 0.7rem;
+}
+
+.landing-wrapper {
+    display: flex;
+}
+
+.about-column {
+    width: calc(35% - (50px / 4));
+    padding-right: 25px;
+}
+
+.contact-info {
+  padding-left: 20px;
+
+  @media (max-width:38em){
+    padding-left: 0px;
+  }
+}
+
+.contact-info a {
+  color: $post-title-color;
+}
+
+.contact-label {
+  padding-left: 10px;
+}
+
+.landing-content {
+    width: calc(65% - (50px / 4));
+    flex: 1 1 auto;
+    padding-left: 20px;
+}
+
+img.avatar {
+    border-radius: 50%;
+    max-width: calc(85%);
+    height: auto;
+    margin: 1rem;
+    }
+
+li.nav-main, ul.contact-info {
+    list-style: none;
+    text-transform: lowercase;
+}
+
+@media (max-width: 38em) {
+    
+.landing-wrapper {
+    display: block;
+    font-size: 1rem;
+    line-height: 1.7rem;
+  }
+  
+.landing-content {
+    width: 100%;
+    padding: 5%;
+    margin: auto;
+  }
+  
+h1.landing-title {
+    font-size: 2rem;
+    margin-top: 0px;
+  }
+  
+.about-column {
+      width: 80%;
+      text-align: center;
+      padding: 0 5%;
+      margin: 0 auto;
+  }
+
+  .landing-content {
+    flex: 1 1 auto;
+  }
+   
+
+@media (min-width: 30em) {
+  .landing-content {
+    padding-left: 20px;
+  }
+}
+
+}

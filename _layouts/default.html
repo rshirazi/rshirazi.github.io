@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+
+   <div class="site-header">
+    
+      <nav class="nav-main">
+        <ul class="site-title">
+          <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/">{{ site.title }}</a></li>
+        </ul>
+        {% include toggle-menu.html %}
+        <ul id="menu" class="menuopen menu">
+          <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/about/">about</a></li>
+          <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/cv/">cv</a></li>
+          <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/blog/">blog</a></li>
+          <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/projects/">projects</a></li>
+        </ul>
+      </nav>
+      
+   
+  </div>
+    <div class="container content">
+      <main>
+        {{ content }}
+      </main>
+    </div>
+  </body>
+
+ <div class="container">
+{% include footer.html %}
+</div> 
+</html>

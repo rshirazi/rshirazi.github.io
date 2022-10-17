@@ -1,0 +1,110 @@
+/**
+ * _layout.scss
+ * Styles for managing the structural hierarchy of the site.
+ */
+.site-header {
+  content: "";
+  clear: both;
+}
+
+.nav-main {
+  display: flex;
+}
+
+.nav-main ul {
+  flex: 1 1 auto;
+  }
+
+/* Mobile menu */
+
+@media (max-width: 38em){
+.nav-main {
+	flex-direction: row;
+}
+.site-title {
+  text-align: left;
+}
+}
+
+
+
+
+/* Inner container for content */  
+
+.container {
+  max-width: 40rem;
+  padding-left:  1.5rem;
+  padding-right: 1.5rem;
+  margin-left:  auto;
+  margin-right: auto;
+}
+
+/* Archive grid layout */
+.archive__item-teaser {
+  position: relative;
+  overflow: hidden;
+
+  img {
+    border-radius: $border-radius;
+    max-height: 150px;
+    margin: 0 auto;
+  }
+}
+
+.archive__item-title, .archive__item-excerpt {
+  text-align: center;
+}
+
+h2.archive__item-title {
+  font-size: 1.2rem;
+}
+
+p.archive__item-excerpt {
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.entries-grid {
+  display: inline-grid;
+  grid-template-columns: 30% 30% 30%;
+  gap: 80px;
+  margin-top: 2rem;
+}
+
+@media (max-width:38em) {
+  .entries-grid {
+    grid-template-columns: auto;
+    row-gap: 40px;
+    column-gap: 80px;
+  }
+  .grid-item {
+    padding: 0 20px;
+  }
+} 
+
+@media (min-width:30em) {
+  .entries-grid {
+    grid-template-columns: 40% 40%;
+    row-gap: 40px;
+    column-gap: 80px;
+  }
+}
+
+/* Footer area */
+
+.ftr-links {
+  padding-top: 0.3rem;
+}
+
+.ftr-links a {
+  color: $post-title-color;
+  padding: 0 0.3rem;
+}
+
+.footer {
+  border-top: 1px solid #eee;
+  padding-top: 1rem;
+  margin-top: 2rem;
+}
+
+
