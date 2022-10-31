@@ -6,16 +6,18 @@ author: Roxanne Shirazi
 layout: post
 guid: http://roxanneshirazi.com/?p=373
 permalink: /2015/02/12/librarians-can-help-you-find-stuff-but-who-helps-you-organize-it/
-image: /wp-content/uploads/2015/02/desktop-sketching-og-1200x800.jpg
+header:
+  teaser: /assets/images/desktop-sketching.jpg
 categories:
   - Blog
 tags:
   - librarianship
   - workshops
 ---
-<figure id="attachment_374" class="wp-caption alignright" style="max-width: 300px">[<img loading="lazy" class="wp-image-374 size-medium" src="http://roxanneshirazi.com/wp-content/uploads/2015/02/desktop-sketching-og.jpg?w=300" alt="Desktop Sketching" width="300" height="200" srcset="https://roxanneshirazi.com/wp-content/uploads/2015/02/desktop-sketching-og.jpg 1400w, https://roxanneshirazi.com/wp-content/uploads/2015/02/desktop-sketching-og-300x200.jpg 300w, https://roxanneshirazi.com/wp-content/uploads/2015/02/desktop-sketching-og-768x512.jpg 768w, https://roxanneshirazi.com/wp-content/uploads/2015/02/desktop-sketching-og-1024x682.jpg 1024w, https://roxanneshirazi.com/wp-content/uploads/2015/02/desktop-sketching-og-1200x800.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />](https://flic.kr/p/bbqqTR)<figcaption class="wp-caption-text">[&#8220;Desktop Sketching&#8221;](https://flic.kr/p/bbqqTR) by Flickr user Eric Heupel, [CC-BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)</figcaption></figure> 
 
 Lately I&#8217;ve been contemplating how much academic libraries should be involved in helping students learn to organize their research. Sure, we do information literacy, which apparently includes &#8220;information management strategies,&#8221; but from my experience that goes no further than how to use a citation manager to create a bibliography.
+
+{% include figure.html image_path="/assets/images/desktop-sketching.jpg" caption="[&#8220;Desktop Sketching&#8221;](https://flic.kr/p/bbqqTR) by Flickr user Eric Heupel, [CC-BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)" %}
 
 I work mostly with graduate students, and as a graduate student myself, I&#8217;ve struggled with getting a handle on my sources. I started out as a &#8220;print everything&#8221; person, and fantasized about keeping a massive file cabinet with a single file for each reading (I know, I&#8217;m a dinosaur). I used a legal pad during class so I could tear out my notes and file them away with my annotated hard copy of the article. The problem with that system (other than the obvious environmental concerns) was its supreme lack of portability. Inevitably I&#8217;d bring the wrong file folder or forget my notebook, and either way when it came time to write I was mired in stacks of paper. Worse, all of my annotations were siloed away in their own little files, out of sight and out of mind.
 

@@ -3,8 +3,9 @@
   * Headings, body text, lists, and other misc typographic elements.
   */
 
+
+
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: .5rem;
   font-family: Open Sans, sans-serif;
   font-weight: bold;
   line-height: 1.25;
@@ -14,20 +15,24 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 2rem;
+  margin-bottom: 1rem;
 }
 
 h2 {
-  margin-top: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
   font-size: 1.5rem;
 }
 
 h3 {
   margin-top: 1.5rem;
+  margin-bottom: 1rem;
   font-size: 1.25rem;
 }
 
 h4, h5, h6 {
   margin-top: 1rem;
+  margin-bottom: 0.5rem;
   font-size: 1rem;
 }
 
@@ -55,10 +60,19 @@ dd {
 
 hr {
   position: relative;
-  margin: 1.5rem 0;
+  margin: 2rem auto;
   border: 0;
   border-top: 1px solid #eee;
   border-bottom: 1px solid #fff;
+}
+
+hr:after { 
+  background: url('/assets/images/ornamental.png') no-repeat top center;
+  content: "";
+  display: block;
+  height: 30px; /* height of the ornament */
+  position: relative;
+  top: -15px; /* half the height of the ornament */
 }
 
 abbr {
@@ -88,7 +102,17 @@ blockquote {
     padding-left: 1.25rem;
   }
 }
+// Figures and captions
+figure {
+  margin-top: 2em;
+}
 
+figcaption {
+	font-size: 90%;
+	color: gray;
+	text-align: center;
+	margin-top: -5px;
+}
 
 // Markdown footnotes
 //

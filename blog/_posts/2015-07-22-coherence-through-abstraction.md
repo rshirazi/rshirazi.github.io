@@ -6,8 +6,6 @@ author: Roxanne Shirazi
 layout: post
 guid: http://roxanneshirazi.com/?p=409
 permalink: /2015/07/22/coherence-through-abstraction/
-geo_public:
-  - "0"
 categories:
   - Blog
 ---
@@ -15,8 +13,9 @@ Some of you may know that I’m at Rare Book School this week, taking <a href="h
 
 You see, my great-grandfather was a great many things in his life—aviator, decorator, all-around tinkerer and craftsman (he could turn any object into a lamp, apparently)—but he was also a publisher, bookseller, and collector of East Asian books and artifacts who fancied himself as a kind of sinologist.* His collection remains (<a href="https://www.youtube.com/watch?v=KF7TbTdUVew" target="_blank">some of it anyway</a>) in my mother&#8217;s custody, and this class is my first real attempt at understanding his passion through formal study. Although I&#8217;m not quite sure where this course will take me professionally, it will most certainly effect my personal and intellectual growth, and I will likely be called upon at some point to work with my great-grandfather&#8217;s collection.
 
-<figure id="attachment_412" class="wp-caption alignright" style="max-width: 228px">[<img loading="lazy" class="wp-image-412 size-medium" src="https://roxanneshirazi.files.wordpress.com/2015/07/fatie-rubbing.jpg?w=228" alt="Fatie rubbing (1102). Wuhuxian xueji. Huang Shang (1044-1130). Mi Fu (1051-1107). 1 vol." width="228" height="300" />](https://roxanneshirazi.files.wordpress.com/2015/07/fatie-rubbing.jpg)<figcaption class="wp-caption-text">_Fatie_ rubbing (1102). _Wuhuxian xueji._ Huang Shang (1044-1130). Mi Fu (1051-1107). 1 vol. From the collection of J. Soren Edgren. [photograph taken with my phone]  
-This was one of the many fascinating objects that we studied in class. _Fatie_ rubbings are ink-squeeze rubbings of model calligraphy that have been placed in an album binding.</figcaption></figure>And yet. It&#8217;s a completely new direction for me, so I’ve read the assignments as an outsider looking in, and I can’t help but draw parallels with what&#8217;s been occupying my brain for the last few years while I learn all that _digital stuff_. In part, I think this is a natural (and necessary) response to interdisciplinary or comparative work: having been tossed into a morass of new material, I’m desperately searching for something familiar, clutching at anything remotely recognizable and pulling myself up to **coherence through abstraction**. The problem is, though, that after the newness wears off (in, say, six months or so of study) all of those familiar nuggets start to blend in with the rest of the muck and my research signposts have all but disappeared.
+{% include figure.html image_path="/assets/images/fatie-rubbing.jpg" alt="" caption="Fatie rubbing (1102). Wuhuxian xueji. Huang Shang (1044-1130). Mi Fu (1051-1107). 1 vol. From the collection of J. Soren Edgren. (photograph taken with my phone)" %}
+
+This was one of the many fascinating objects that we studied in class. _Fatie_ rubbings are ink-squeeze rubbings of model calligraphy that have been placed in an album binding. And yet. It&#8217;s a completely new direction for me, so I’ve read the assignments as an outsider looking in, and I can’t help but draw parallels with what&#8217;s been occupying my brain for the last few years while I learn all that _digital stuff_. In part, I think this is a natural (and necessary) response to interdisciplinary or comparative work: having been tossed into a morass of new material, I’m desperately searching for something familiar, clutching at anything remotely recognizable and pulling myself up to **coherence through abstraction**. The problem is, though, that after the newness wears off (in, say, six months or so of study) all of those familiar nuggets start to blend in with the rest of the muck and my research signposts have all but disappeared.
 
 So this time I’m going to try to capture those initial sparks of inquiry, to roughly sketch out some of the areas I’d like to research further and, more generally, have a record of what stood out to me as a beginner.
 
@@ -36,5 +35,4 @@ We&#8217;re only on day 2 of the week-long course, and I will try to blog about 
 
 But before any of that I&#8217;ll head over to more familiar territory <del>tomorrow</del> tonight with this week&#8217;s RBS evening lecture on &#8220;<a href="http://rarebookschool.org/all-programs/lectures/singerman-scholarly-publishing/" target="_blank">Scholarly Publishing at the Crossroads</a>.&#8221; Anon!
 
-_* of course, back then he called himself an Orientalist, which my be more precise considering his interests were broader than China alone, but I can&#8217;t really bring myself to say that.  
-_
+_* of course, back then he called himself an Orientalist, which my be more precise considering his interests were broader than China alone, but I can&#8217;t really bring myself to say that._

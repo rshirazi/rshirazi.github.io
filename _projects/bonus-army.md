@@ -5,20 +5,23 @@ date: 2012-06-06T17:46:05-04:00
 author: Roxanne Shirazi
 layout: page
 guid: http://roxanneshirazi.com/?page_id=96
-twitter_cards_summary_img_size:
-  - 'a:7:{i:0;i:500;i:1;i:361;i:2;i:2;i:3;s:24:"width="500" height="361"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}'
+start_date: 2009
+publication-date: November 2009
 invisible: true
 header:
   teaser: /assets/images/bonus-thumb.jpg
 excerpt: A research introduction to the Bonus Army.
 ---
-[<img src="http://farm3.staticflickr.com/2626/4226569890_be1db558be.jpg" alt="Bonus Army Clash" width="500" height="361" />](http://www.flickr.com/photos/dcplcommons/4226569890/ "Bonus Army Clash by DC Public Library Commons, on Flickr")
 
-Washington police attempting to remove Bonus Army marchers from federal property, July 28, 1932 _(photo from the [DC Public Library Commons photostream on Flickr](http://www.flickr.com/photos/dcplcommons/4226569890/))_
+<div class="message">
+  <em>This was a project that I completed as part of the Reference and Instruction course at Pratt Institute's School of Information in the Fall 2009 semester.</em>
+</div>
 
 In the summer of 1932, approximately 20,000 men, women, and children set up camp and occupied abandoned government buildings in Washington, D.C., to lobby Congress for the passage of the Patman bill, which would give immediate payment on WWI veterans’ adjusted service certificates (popularly known as a “bonus”). Calling themselves the Bonus Expeditionary Forces (BEF), or the [Bonus Army](http://en.wikipedia.org/wiki/Bonus_Army "Wikipedia entry"), the veterans and their families, led by Walter W. Waters, came from all over the country and marched on Washington several times before the bill failed and Congress adjourned.
 
 Over the course of three months, the veterans’ largest camps, in an area known as the Anacostia Flats, became the country’s most famous Hooverville, and although Congress appropriated funds to provide transportation out of Washington, D.C., thousands of the veterans—most of whom were unemployed and had no home to which to return—decided to remain in the city. Faced with a growing health hazard and increasingly edgy protesters, and being pressed to reclaim the abandoned buildings that were to be demolished for future construction, Pres. Herbert Hoover ordered their evacuation from Pennsylvania Avenue. When veterans and local police clashed, two veterans were killed, and Pres. Hoover called in the troops. On July 28th, 1932, the veterans were dispersed by the regular Army, led by then Chief of Staff Gen. Douglas MacArthur, and the camps at Anacostia were burned. Though no one was killed, many were injured and observers decried the use of force against unarmed veterans. In the aftermath, both Pres. Hoover and MacArthur would claim that the Bonus Army was comprised of Communists and criminals that were intent on destroying the government of the United States.
+
+{% include figure.html image_path="/assets/images/bonus.jpg" caption="Washington police attempting to remove Bonus Army marchers from federal property, July 28, 1932. Photo from the [DC Public Library Commons photostream on Flickr](https://www.flickr.com/photos/dcplcommons/4226569890/)." %}
 
 The events of that summer are often discussed to highlight the different political styles of Herbert Hoover and FDR during the Great Depression, and the marchers are frequently credited with setting a tradition of bringing public grievances directly to the Capitol building. Recent scholars also point to the march of the veterans as motivation for the GI Bill that was passed at the end of World War II, claiming that the Bonus Army had demonstrated the dangers of not providing for veterans. Although it made headlines for many years, the march of the Bonus Army remains a largely forgotten chapter in American history, and is often relegated to a brief entry in encyclopedias and other reference works. Through the course of this essay, I hope to illuminate some of the more useful resources that are available for studying the phenomenon of the Bonus Army, while providing pointers for more detailed research.
 

@@ -6,7 +6,8 @@ author: Roxanne Shirazi
 layout: post
 guid: http://roxanneshirazi.com/?p=396
 permalink: /2015/03/30/a-digital-wasteland/
-image: /wp-content/uploads/2015/03/digital-wasteland.jpg
+header:
+  teaser: /assets/images/digital-wasteland.jpg
 categories:
   - Blog
 tags:
@@ -14,18 +15,11 @@ tags:
   - digital humanities
   - presentations
 ---
-On Saturday, I presented a paper at the <a title="ACRL 2015 Conference Program" href="http://conference.acrl.org/program-pages-166.php" target="_blank">Association of College and Research Libraries (ACRL) 2015 Conference</a>, which was held in Portland, Oregon. I had the unlucky time slot of 8:30am on the last day of the conference, and so have decided to share my slides and link to the paper for those who were unable to attend.
+On Saturday, I presented a paper at the <a href="http://conference.acrl.org/program-pages-166.php" target="_blank">Association of College and Research Libraries (ACRL) 2015 Conference</a>, which was held in Portland, Oregon. I had the unlucky time slot of 8:30am on the last day of the conference, and so have decided to share my slides and link to the paper for those who were unable to attend.
 
-## Slides
+{% include figure.html image_path="/assets/images/digital-wasteland.jpg" alt="" caption="[View my slides](https://speakerdeck.com/rshirazi/a-digital-wasteland-modernist-periodical-studies-digital-remediation-and-copyright) on SpeakerDeck." %}
 
-
-
-&nbsp;  
-&nbsp;
-
-## Paper
-
-The complete proceedings have been published as <a title="ACRL 2015 Conference Proceedings" href="http://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpreconfs/2015/ACRL2015_A.pdf" target="_blank">an open access pdf. </a>The papers are also <a title="ACRL 2015 papers" href="http://www.ala.org/acrl/acrl/conferences/acrl2015/papers" target="_blank">available individually</a> on ACRL website, where you will find a pdf of my paper, <a title="ACRL 2015 Conference Proceedings (Shirazi)" href="http://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpreconfs/2015/Shirazi.pdf" target="_blank">&#8220;A &#8216;Digital Wasteland&#8217;: Modernist Periodical Studies, Digital Remediation, and Copyright.</a>&#8221;
+The complete proceedings have been published as <a href="http://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpreconfs/2015/ACRL2015_A.pdf" target="_blank">an open access PDF. </a>The papers are also <a href="http://www.ala.org/acrl/acrl/conferences/acrl2015/papers" target="_blank">available individually</a> on the ACRL website, where you will find a PDF of my paper, <a href="http://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpreconfs/2015/Shirazi.pdf" target="_blank">&#8220;A &#8216;Digital Wasteland&#8217;: Modernist Periodical Studies, Digital Remediation, and Copyright.</a>&#8221;
 
 Two corrections that I&#8217;d like to make to the version of the paper that was published in the proceedings:
 

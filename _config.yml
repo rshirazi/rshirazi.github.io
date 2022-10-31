@@ -27,6 +27,30 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  topics:
+    output: true 
+    permalink: /:collection/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "topics"
+    values:
+      layout: "topic"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
 
 teaser: /assets/images/logo.png   
 

@@ -8,6 +8,7 @@ guid: https://roxanneshirazi.com/?p=646
 permalink: /2020/10/11/in-remembrance-of-john-berry-iii/
 categories:
   - Blog
+excerpt: This morning I was saddened to learn that John Berry, III, longtime editor at Library Journal, passed away at the age of 87.
 ---
 This morning I was saddened to learn that John Berry, III, longtime editor at _Library Journal_, [passed away at the age of 87](https://www.libraryjournal.com/?detailStory=obituary-john-n-berry-iii).
 

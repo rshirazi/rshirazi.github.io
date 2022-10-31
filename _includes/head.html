@@ -3,11 +3,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
   <!-- Twitter Card metadata for social -->
-  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@RoxanneShirazi" />
   <meta name="twitter:title" content="{{ page.title }}" />
-  <meta name="twitter:description" content="{{ post.excerpt }}" />
-  <meta name="twitter:image" content="{{ site.baseurl }}/assets/images/logo.jpg">
+  <meta name="twitter:description" content="{% if post.excerpt %}{{ post.excerpt | markdownify | strip_html | truncate: 120 }}{% else %}{{ page.excerpt | markdownify | strip_html | truncate: 120 }}{% endif %}" />
+  <meta name="twitter:image" content="{{ page.header.teaser }}" />
 
   <title>
     {% if page.title == "Home" %}
@@ -33,7 +33,8 @@
   <meta property="dc:creator" content="{% if page.author %}{{ page.author }}{% else %}{{ site.author.name }}{% endif %}" />
   <meta property="dc:identifier" content="{{ resource_url }}" />
   {% if page.editor %}<meta property="dc:contributor" content="{{ page.editor }}" />{% endif %}
-  {% if page.publication-date %}<meta property="dc:date" content="{{ page.publication-date }}" />{% endif %}
+  {% if page.publication-date %}<meta property="dc:date" content="{{ page.publication-date | date_to_long_string }}" />{% else %}<meta property="dc:date" content="{{ page.date | date_to_long_string }}" />{% endif %}
   {% if page.rights %}<meta property="dc:rights" content="{{ page.rights }}" />{% endif %}
+  {% if page.excerpt %}<meta property="dc:description" content="{{ page.excerpt | markdownify | strip_html | }}" />{% endif %}
   <meta property="dc:source" content="{% if page.source %}{{ page.source }}{% else %}{{ site.title }}{% endif %}" />
 </head>

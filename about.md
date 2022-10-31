@@ -10,3 +10,5 @@ I&#8217;m a founding co-editor of [_dh+lib_](https://acrl.ala.org/dh) (&#8220;wh
 I earned my MSLIS from <a title="Pratt SILS" href="https://www.pratt.edu/academics/information_and_library_sciences/" target="_blank" rel="noopener noreferrer">Pratt Institute</a>, with an Advanced Certificate in Archives. My concentration was in special collections, with coursework comprising technical services, conservation, reference and outreach for library and archival materials in print, audiovisual, photographic and digital formats.
 
 My previous career was in academic bookstores and publishing.
+
+Want to learn more about this site? View the [site credits](/site-credits.md).

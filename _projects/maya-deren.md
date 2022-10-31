@@ -2,6 +2,8 @@
 id: 98
 title: 'Maya Deren as Film Theorist: An Annotated Bibliography'
 date: 2012-06-06T17:46:32-04:00
+publication-date: September 2010
+start_date: 2010
 author: Roxanne Shirazi
 layout: page
 guid: http://roxanneshirazi.com/?page_id=98
@@ -11,7 +13,7 @@ excerpt: A list of resources to provide background, context, and analysis of May
 
 ---
 <div class="message">
-  <em>This was a student project that I completed as part of the Film and Media Collections course at Pratt Institute's School of Information in the Fall 2010 semester.</em>
+  <em>This was a project that I completed as part of the Film and Media Collections course at Pratt Institute's School of Information in the Fall 2010 semester.</em>
 </div>
 
 [Maya Deren](https://en.wikipedia.org/wiki/Maya_Deren) created what is perhaps the most famous American avant-garde film, [<em>Meshes of the Afternoon</em> (1943)](https://en.wikipedia.org/wiki/Meshes_of_the_Afternoon), and is widely acknowledged as a pioneer of the avant-garde movement. Yet she was also a prolific writer of the theory of cinema, as well as an advocate for new modes of distribution and exhibition to counter the Hollywood industry. Although subsequent generations of film scholars would begin to appreciate her theories on film as an art form, her contemporaries were less kind, ranging from dismissive to hostile. What were her theories, and why were they initially ignored or rejected, only to be fully appreciated posthumously? For those who wish to explore Deren’s ideas, the following list of resources will provide background, context, and analysis.

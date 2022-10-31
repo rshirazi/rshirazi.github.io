@@ -6,8 +6,8 @@ author: Roxanne Shirazi
 layout: post
 guid: http://roxanneshirazi.com/?p=243
 permalink: /2014/04/23/critical-pedagogy-information-literacy-and-tech-instruction/
-geo_public:
-  - "0"
+header:
+  teaser: /assets/images/classroom-teacher.jpg
 categories:
   - Blog
 tags:
@@ -17,9 +17,9 @@ tags:
   - tech
   - workshops
 ---
-[<img loading="lazy" class="aligncenter wp-image-258 size-full" src="http://roxanneshirazi.files.wordpress.com/2014/04/4727537544_8ae8a9335a_z-e1398231647106.jpg" alt="A Teacher Talks to Her Students in a Classroom at Cathedral Senior High School in New Ulm, Minnesota." width="640" height="328" srcset="https://roxanneshirazi.com/wp-content/uploads/2014/04/4727537544_8ae8a9335a_z-e1398231647106.jpg 640w, https://roxanneshirazi.com/wp-content/uploads/2014/04/4727537544_8ae8a9335a_z-e1398231647106-300x154.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />](http://arcweb.archives.gov/arc/action/ExternalIdSearch?id=558212)
+I recently attended the <a href="http://2014lacunyinst.commons.gc.cuny.edu/" target="_blank">2014 LACUNY Institute: &#8220;Information Literacy to Empower: Theory and Practice.&#8221;</a> Usually I just tweet a lot at conferences as a form of personal notetaking, but this time the amazing keynote (from librarian-hero Barbara Fister) and super-smart presentations have lingered longer than expected. The conference, as a whole, was tons of fun, full of invigorating thoughts from smart, engaged, and passionate practitioners who take their theory seriously.
 
-I recently attended the <a title="2014 LACUNY Institute" href="http://2014lacunyinst.commons.gc.cuny.edu/" target="_blank">2014 LACUNY Institute: &#8220;Information Literacy to Empower: Theory and Practice.&#8221;</a> Usually I just tweet a lot at conferences as a form of personal notetaking, but this time the amazing keynote (from librarian-hero Barbara Fister) and super-smart presentations have lingered longer than expected. The conference, as a whole, was tons of fun, full of invigorating thoughts from smart, engaged, and passionate practitioners who take their theory seriously.
+{% include figure.html image_path="/assets/images/classroom-teacher.jpg" caption="A Teacher Talks to Her Students in a Classroom at Cathedral Senior High School in New Ulm, Minnesota circa 1975. From the [U.S. National Archives Photostream on Flickr](https://flic.kr/p/8cKSd1). (Photographer: David Stroble)" %}
 
 During a break, I was chatting with another librarian who asked why I was there. Was I an instruction librarian? Did I actually teach as part of my job?
 
@@ -37,6 +37,4 @@ I know, I know. Having a group of students of varying capabilities, who are prob
 
 I recently saw a talk by Miriam Posner (which is now <a title="How Did They Make That? The Video!" href="http://miriamposner.com/blog/how-did-they-make-that-the-video/" target="_blank">a video lesson</a>!) in which she provided a framework to critically evaluate digital humanities projects. The session wasn&#8217;t too much longer than an hour, but it managed to be both interactive and instructive; at the time, I commented that it was like an info lit session for digital projects and that librarians should be taking up this work. If information literacy librarians are concerned with teaching students to &#8220;<a title="ACRL Information Literacy Competency Standards for Higher Education" href="http://www.ala.org/acrl/standards/informationliteracycompetency" target="_blank">locate, evaluate, and use effectively the needed information</a>,&#8221; digital humanities librarians need to engage with how to perform these activities when the &#8220;information package&#8221; is a digital project (you know, those things that probably lack the traditional signifiers of peer review and are generally not indexed in scholarly databases). Taking this further, while libraries are still trying to figure out the role of subject specialists in digital humanities librarianship, it seems clear to me that consulting with students and faculty on locating, evaluating, and using technology tools &#8212; not just information packages &#8212; is going to be a part of it. So while we talk about project-based learning in the digital humanities, does anyone consider Freire&#8217;s problem-posing methodology as it relates to technology instruction? I know I&#8217;m not the first to consider these questions, but it would be great to pool resources on how we might accomplish these teaching goals. How about instead of <a title="Digital Humanities Education Zotero Library" href="https://www.zotero.org/groups/digital_humanities_education/items/collectionKey/MXXEMX7P" target="_blank">collecting and sharing syllabuses</a>, we share <a title="Visualizing Elision: A Teaching Exercise" href="http://joshhonn.com/?p=112" target="_blank">teaching exercises</a>?
 
-I guess what I&#8217;m really asking is, given our limited time and space constraints, how can librarians move beyond _training _and rote _instruction_ in technology workshops for digital scholarship and cross over into really _teaching_?
-
-_Image Credit: &#8220;A Teacher Talks to Her Students in a Classroom at Cathedral Senior High School in New Ulm, Minnesota&#8221; circa 1975. From the <a href="https://flic.kr/p/8cKSd1" target="_blank">U.S. National Archives Photostream on Flickr</a>. (Photographer: David Stroble)_
+I guess what I&#8217;m really asking is, given our limited time and space constraints, how can librarians move beyond _training_ and rote _instruction_ in technology workshops for digital scholarship and cross over into really _teaching_?

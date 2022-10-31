@@ -34,11 +34,3 @@ Again, nods of recognition. &#8220;There&#8217;s no central place, really, to lo
 I then go into a short history lesson about how libraries used to _purchase_ materials for shared use, and how those materials _used to_ live on our shelves. And that catalogs were our &#8220;inventory systems&#8221; and that these intricate systems of subject headings and classification schemes were necessary to sort and file materials for retrieval. But now, we no longer _own_ those _items_ on our shelves; they are subscriptions that live elsewhere. I call this the Netflix/Hulu problem. And library &#8220;discovery&#8221; layers are trying to solve the Netflix/Hulu problem.
 
 So far I&#8217;ve found that this seems to connect with students. Mostly, it clears up that we are not Google (Google doesn&#8217;t have to worry about subscriptions). We&#8217;re not actually trying to serve up all possible materials on a topic. We&#8217;re trying to show you what _is available_ _to you_ based on our subscriptions. But the vendors keep changing it, so things disappear, or there is overlap across databases, so you might get six records for a single journal article (or worse, ten book reviews when you&#8217;re looking for the book). It sets the stage for the wonkiness that is a part of library research, primarily by explaining that we are still trying to figure it out. Try as we might, it&#8217;s not seamless. It&#8217;s not Google. It&#8217;s not supposed to be. It&#8217;s something else, and nobody&#8217;s actually solved it yet.
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;

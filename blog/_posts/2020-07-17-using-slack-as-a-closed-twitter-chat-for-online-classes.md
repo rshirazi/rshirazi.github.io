@@ -1,7 +1,7 @@
 ---
 id: 641
 title: Using Slack as a Closed Twitter Chat for Online Classes
-date: 2020-07-17T00:51:54-04:00
+date: 2020-07-17
 author: Roxanne Shirazi
 layout: post
 guid: https://roxanneshirazi.com/?p=641

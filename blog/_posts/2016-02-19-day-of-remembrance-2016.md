@@ -34,6 +34,7 @@ As she read, I read. I read first with an eye towards uncovering historical deta
 The title of this thesis is drawn from Dr. Suski’s name for his quarters at the Heart Mountain internment camp, “Yellow Dust Abode.” The text of his explanation for the name is transcribed below and reproduced in figure 1.
 
 He writes:  
+
 I am not sure if I sent you impression of my seal. Guess I did not. Characters in this seal are
 
 heart peak yellow dust place
@@ -44,7 +45,8 @@ So I rubbed on a stone and engraved a grass style of the same characters and tur
 
 This is the name I have given to the room which faces south near hospital front entrance. When wind blows in yellow dust, the table top and floor are full of dust. So I named it
 
-‘Heart Mountain yellow dust abode’<figure id="attachment_449" class="wp-caption alignnone" style="max-width: 537px">
+‘Heart Mountain yellow dust abode’
 
-<a href="http://roxanneshirazi.com/wp-content/uploads/2016/02/yellow_dust.jpg" rel="attachment wp-att-449"><img loading="lazy" class="wp-image-449 size-full" src="http://roxanneshirazi.com/wp-content/uploads/2016/02/yellow_dust-e1455908536262.jpg" alt="image of letter" width="537" height="696" srcset="https://roxanneshirazi.com/wp-content/uploads/2016/02/yellow_dust-e1455908536262.jpg 537w, https://roxanneshirazi.com/wp-content/uploads/2016/02/yellow_dust-e1455908536262-231x300.jpg 231w, https://roxanneshirazi.com/wp-content/uploads/2016/02/yellow_dust-e1455908536262-420x544.jpg 420w" sizes="(max-width: 537px) 100vw, 537px" /></a><figcaption class="wp-caption-text">Figure 1. _Source:_ P.M. Suski to Willis M. Hawley, 12 August 1945. Hawley-Suski Letters. Private collection.  
-Reproduced with permission, courtesy Suski family.</figcaption></figure>
+
+<figure><a href="/assets/images/yellow_dust.jpg"><img src="/assets/images/yellow_dust.jpg" alt="image of letter"></a>
+<figcaption>Figure 1. P.M. Suski to Willis M. Hawley, 12 August 1945. <i>Source</i>: Hawley-Suski Letters. Private collection. Reproduced with permission, courtesy Suski family.
