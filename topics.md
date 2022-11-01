@@ -1,7 +1,8 @@
 ---
 title: Topics
-layout: topics
+layout: collection
 permalink: /topics/
-entries_layout: grid
+collection: topics
+entries-layout: list
 ---
-Placeholder
+This will be a description of my research topics, a collection of narratives where I group my work under a larger umbrella. For example, privacy; dh project discovery; etc.

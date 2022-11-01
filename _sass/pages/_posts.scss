@@ -15,6 +15,7 @@
 .post-title a {
   color: $post-title-color;
 }
+
 .page-title,
 .post-title {
   margin-top: 0;
@@ -63,3 +64,27 @@ article.post {
 .post-nav-next {
   text-align: right;
 }
+
+// Special styles for topic pages
+
+.topic-link-wrapper {
+  margin-top: 2rem;
+}
+
+ul.topic-links {
+  list-style: none;
+  padding-left: initial;
+}
+
+.topic-links .post-date {
+  margin-bottom: 0;
+}
+
+.topic-links h3.post-title {
+  margin-bottom: 0;
+}
+
+.topic-links a:hover, .topic-links a:focus {
+	text-decoration: none;
+}
+
