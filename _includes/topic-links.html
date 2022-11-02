@@ -1,18 +1,19 @@
 {% assign topic-links = page.topic-links %}
 
 <div class="topic-link-wrapper">
-
+    <ul class="topic-links">
 {% for f in topic-links %}
 
-<ul class="topic-links">
     <li>
-        <h3 class="post-title hvr-underline-reveal"><a href="{{ f.url | relative_url}}">{{ f.title }}</a></h3>
-        <span class="post-date">{{ f.year }}</span>
-        <span class="link-desc">{{ f.desc | markdownify }}</span>
+        {% if f.title %}
+        <h3 class="post-title hvr-underline-reveal"><a href="{{ f.url | relative_url }}">{{ f.title }}</a></h3>
+        {% endif %}
+        {% if f.year %}
+        <span class="post-date">{{ f.year }}</span>{% endif %}
+        {% if f.desc %}
+        <span class="link-desc">{{ f.desc | markdownify }}</span>{% endif %}
     </li>
-</ul>
-
 
 {% endfor %}
-
+</ul>
 </div>
