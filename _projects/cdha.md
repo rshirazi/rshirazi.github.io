@@ -5,7 +5,7 @@ permalink: /projects/CDHA
 collection: projects
 start_date: 2022
 header:
-    teaser: assets/images/1971_BMCC_Strike.png
+    teaser: assets/images/1971_bmcc_strike.png
 excerpt:  A participatory digital history project that documents "the people's university" in New York City. 
 topic-links:
 - year: 2022&#150;present
