@@ -1,7 +1,7 @@
 ---
 title: Curriculum Vitae
 layout: cv
-permalink: /cv
+permalink: /cv/
 publication-date: August 2022
 ---
 
