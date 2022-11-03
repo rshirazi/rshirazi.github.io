@@ -76,7 +76,12 @@ ul.topic-links {
   padding-left: initial;
 }
 
-.topic .topic-links .post-date {
+ul.topic-links h3 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.topic-links .post-date {
   margin-bottom: 0;
 }
 
@@ -84,9 +89,13 @@ ul.topic-links {
   margin-bottom: 0;
 }
 
-.topic-links a:hover, .topic-links a:focus {
-	text-decoration: none;
+.topic-links span.link-desc > p {
+  margin-bottom: 2rem;
 }
+
+/*.topic-links a:hover, .topic-links a:focus {
+	text-decoration: none;
+}*/
 
 // Special styles for project pages
 
