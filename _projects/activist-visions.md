@@ -8,7 +8,7 @@ header:
     teaser: /assets/images/eubanks.png
 excerpt:  A research project examining the activist tradition of librarians at CUNY. 
 topic-links:
-- year: 2022
+- year: '2022&#150;23, PSC-CUNY Research Award Cycle 53, Traditional B'
   title: 'Activist Visions: A History of Librarians at The City University of New York'
 ---
 {% include topic-links.html %}

@@ -8,8 +8,10 @@
         {% if f.year %}
         <span class="post-date">{{ f.year }}</span>{% endif %}
         {% if f.title %}
-        <h3 class="post-title hvr-underline-reveal"><a href="{{ f.url | relative_url }}">{{ f.title }}</a></h3>
+        <h3 class=""><a href="{{ f.url | relative_url }}">{{ f.title }}</a></h3>
         {% endif %}
+        {% if f.team %}
+        <span class="post-date team">{{ f.team | markdownify }}</span>{% endif %}
         {% if f.desc %}
         <span class="link-desc">{{ f.desc | markdownify }}</span>{% endif %}
     </li>

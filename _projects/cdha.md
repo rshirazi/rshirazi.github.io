@@ -8,9 +8,10 @@ header:
     teaser: assets/images/1971_BMCC_Strike.png
 excerpt:  A participatory digital history project that documents "the people's university" in New York City. 
 topic-links:
-- year: 2022
+- year: 2022&#150;present
   title: CUNY Digital History Archive
   url: https://cdha.cuny.edu
+  team: '**Project Director**. With Stephen Brier, Andrea Ades Vasquez, and Marco Battistella. A project of the [American Social History Project](https://ashp.cuny.edu) and [Mina Rees Library](https://library.gc.cuny.edu).'  
 ---
 
 {% include topic-links.html %}
