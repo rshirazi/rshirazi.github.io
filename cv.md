@@ -226,6 +226,7 @@ Poster presented at Digital Library Federation (DLF) Forum 2013
 </table>
 
 ### GRANTS, AWARDS & HONORS
+
 <table>
 <colgroup>
 <col style="width: 10%" />
