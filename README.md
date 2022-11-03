@@ -1,9 +1,3 @@
----
-title: Site Credits
-layout: page
-permalink: /site-credits
---- 
-
 This site was built with Jekyll, using [Celeste](https://github.com/nicoelayda/celeste) as the basis. Celeste is based on [Poole](https://github.com/poole/poole), the Jekyll butler. I honestly don't know what that means yet, but I am picturing Tim Curry in *Clue* serving me a website. Most of the design comes from this basis, but I tweaked the typography, line-spacing, and content width (I like to play around with the [Golden Ratio Calculator](https://grtcalculator.com/)). I've tried getting set up with Jekyll in the past and went down a few different rabbit holes of complex themes that promised a lot of features but also required digging through a lot of circular documentation! It turns out I wanted a simple site with a clean look and Celeste made this possible.
 
 For the design of the landing page, however, I borrowed heavily from the [Jekyll Academic theme](https://github.com/gaalcaras/academic), by Gabriel Alcaras. I wanted the profile pic and contact information front and center and I liked the overall design of this theme. Unfortunately, the theme repository hadn't been updated for a few years and I was a bit worried that there might be issues down the road, so I stuck with the simple vanilla Jekyll and recreated the look in my own layouts.
