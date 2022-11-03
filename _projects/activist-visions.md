@@ -8,8 +8,10 @@ header:
     teaser: /assets/images/eubanks.png
 excerpt:  A research project examining the activist tradition of librarians at CUNY. 
 topic-links:
-- year: '2022&#150;23, PSC-CUNY Research Award Cycle 53, Traditional B'
+- year: '2022&#150;present'
   title: 'Activist Visions: A History of Librarians at The City University of New York'
+  url: https://www.rfcuny.org/RFWEBSITE/principal-investigators/explore-pre-award-resources/internal-funding-psc-cuny-award-program/
+  team: '**Principal Investigator**. PSC-CUNY Research Award Cycle 53, Traditional B'
 ---
 {% include topic-links.html %}
 
@@ -29,4 +31,4 @@ This history will situate the stories of individual librarians within the activi
 faculty and students as they responded to everything from the social upheaval of the Vietnam era
 to the tumultuous shifts occurring at their own institution with open admissions, and beyond.
 
-[^1]: See discussion of Jackie Eubanks, Joan Marshall, and Pat Schuman in Samek, Intellectual Freedom and Social Responsibility in American Librarianship, 1967-1974.
+[^1]: See discussion of Jackie Eubanks, Joan Marshall, and Pat Schuman in Samek, Intellectual Freedom and Social Responsibility in American Librarianship, 1967-1974. Jefferson, N.C.: McFarland, 2001.
