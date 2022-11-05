@@ -1,5 +1,5 @@
 title:               Roxanne Shirazi
-url:                 https://rshirazi.github.io
+url:                 https://roxanneshirazi.com
 baseurl:             ""
 
 markdown:            kramdown
@@ -20,7 +20,7 @@ sass:
 
 author:
   name:              Roxanne Shirazi
-  url:               rshirazi.github.io
+  url:               roxanneshirazi.com
   email:             rshirazi@gc.cuny.edu
 
 collections:
