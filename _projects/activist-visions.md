@@ -5,7 +5,7 @@ permalink: /projects/activist-visions
 collection: projects
 start_date: 2022
 header:
-    teaser: /assets/images/eubanks.png
+  teaser: /assets/images/eubanks.png
 excerpt:  A research project examining the activist tradition of librarians at CUNY. 
 topic-links:
 - year: '2022&#150;present'
@@ -13,6 +13,7 @@ topic-links:
   url: https://www.rfcuny.org/RFWEBSITE/principal-investigators/explore-pre-award-resources/internal-funding-psc-cuny-award-program/
   team: '**Principal Investigator**. PSC-CUNY Research Award Cycle 53, Traditional B'
 ---
+
 {% include topic-links.html %}
 
 The history of social justice activism within librarianship is well-studied, but few have looked at
