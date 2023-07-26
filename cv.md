@@ -235,7 +235,7 @@ Poster presented at Digital Library Federation (DLF) Forum 2013
 <tbody>
 <tr class="odd">
 <td>2023</td>
-<td>Henry Wasser Award for Outstanding Research for Assistant Professors in CUNY, CUNY Academy for the Humanities and Sciences</td>
+<td>Henry Wasser Award for Outstanding Research for Assistant Professors, CUNY Academy for the Humanities and Sciences</td>
 </tr>
 <tr class="even">
 <td>2022</td>
