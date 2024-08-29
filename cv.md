@@ -26,7 +26,12 @@ distinction, 2012. Practicum: ["Processing Special Collections: Blurring Boundar
 </colgroup>
 <tbody>
 <tr>
-<td>2017-present</td>
+<td>August 2024-present</td>
+<td>Head of Archives and Special Collections, Associate Professor, Mina Rees
+Library, The Graduate Center, CUNY</td>
+</tr>
+<tr>
+<td>2017-2024</td>
 <td>Dissertation Research Librarian, Assistant Professor, Mina Rees
 Library, The Graduate Center, CUNY</td>
 </tr>
