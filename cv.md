@@ -5,7 +5,7 @@ permalink: /cv/
 publication-date: August 2022
 ---
 
-This version mostly includes publications and conference participation. To view service and other activities, download a copy of [my full CV](/assets/Shirazi_Roxanne_CV_2022_09.pdf). You can also [view my profile in Google Scholar](https://scholar.google.com/citations?user=8wYHdBwAAAAJ&hl=en).
+This version mostly includes publications and conference participation. To view service and other activities, download a copy of [my full CV](/assets/Shirazi_Roxanne_CV_2024_11.pdf). You can also [view my profile in Google Scholar](https://scholar.google.com/citations?user=8wYHdBwAAAAJ&hl=en).
 
 
 ### EDUCATION
@@ -76,11 +76,13 @@ John Russell, Patrick Williams, Caitlin Christian-Lamb. Founding Co-editor (2012
 
 ### INVITED TALKS
 
-- ["Reproductive Labor and Digital Technology"](https://demos.fsu.edu/webinars/reproductive-labor-webinar/), The Demos Project “People in Data” Webinar series. Florida State University. October 18, 2019.
-- ["Unseen and Unremarked Upon: The Reproductive Labor of Librarians in the Academy”](http://enyacrl.org/site/spring-2017-itinerary/). Keynote speaker, Eastern New York/ACRL Spring Conference. Siena College. May 23, 2017.
-- ["Digital Pasts and Disciplinary Futures: Charting the Course of Librarians in DH"](https://docs.google.com/presentation/d/1k9LjaJ05fxd6m-lCw8S0XAmp2HpZ0fmas7nJSF3y82g/edit?usp=sharing). 2<sup>nd</sup> Annual Digital Humanities Address. Pratt School of
+- ["Radicalism at BMCC: Selections from the CUNY Digital History Archive."](https://docs.google.com/presentation/d/19MX0aorsIslkHQYaRIUZe4LEZo4eeeaivRhSKuG-JuI/edit?usp=sharing) Part of the "Student Power: Radical Histories of CUNY" session, NYC Climate Justice Hub Fellowship Academy. June 18, 2024.
+- ["Librarianship at CUNY in the Period of Open Admissions: Notes on Reading LACUNY Journal, 1972–1977,"](https://docs.google.com/presentation/d/1VqmQsQttSQAtYS-DeeIxqGYTMOUvm5PdoiJD7LFuqpg/view) Wasser Award Lectures, CUNY Graduate Center. March 22, 2024.
+- ["Reproductive Labor and Digital Technology,"](https://demos.fsu.edu/webinars/reproductive-labor-webinar/) The Demos Project “People in Data” Webinar series. Florida State University. October 18, 2019.
+- ["Unseen and Unremarked Upon: The Reproductive Labor of Librarians in the Academy.”](http://enyacrl.org/site/spring-2017-itinerary/) Keynote speaker, Eastern New York/ACRL Spring Conference. Siena College. May 23, 2017.
+- ["Digital Pasts and Disciplinary Futures: Charting the Course of Librarians in DH."](https://docs.google.com/presentation/d/1k9LjaJ05fxd6m-lCw8S0XAmp2HpZ0fmas7nJSF3y82g/edit?usp=sharing) 2<sup>nd</sup> Annual Digital Humanities Address. Pratt School of
 Information. April 6, 2017.
-- ["Conditions of (In)Visibility: Cultivating a Documentary Impulse in the Digital Humanities"](https://www.youtube.com/watch?v=28LIvujbrS8). Keynote speaker, Invisible Work in the Digital Humanities Symposium.
+- ["Conditions of (In)Visibility: Cultivating a Documentary Impulse in the Digital Humanities."](https://www.youtube.com/watch?v=28LIvujbrS8) Keynote speaker, Invisible Work in the Digital Humanities Symposium.
 Florida State University. November 17-18, 2016.
 
 ### CONFERENCE PRESENTATIONS
@@ -122,6 +124,15 @@ Remediation, and Copyright.” ACRL 2015 (March 25-28), Portland, OR.</td>
 </tr>
 <tr class="odd">
 <td colspan="2"><strong>Panels</strong></td>
+</tr>
+<tr class="even">
+<td>2024</td>
+<td>“Normalizing: How CUNY Unified into a Single ArchivesSpace Instance.” CUNY IT Conference (December 5-6, 2024), New York, NY. Panelist.
+</td>
+</tr>
+<tr class="odd">
+<td>2023</td>
+<td>“Needles in Many Haystacks: Approaches to DH Discovery.” Digital Library Federation Forum 2023 (November 12-16), St. Louis, MO. Panelist.</td>
 </tr>
 <tr class="even">
 <td>2021</td>
@@ -238,6 +249,10 @@ Poster presented at Digital Library Federation (DLF) Forum 2013
 <col style="width: 89%" />
 </colgroup>
 <tbody>
+<tr class="even">
+<td>2024-2027</td>
+<td>[Cultivating Archives and Institutional Memory at 'The People's University'](https://www.mellon.org/grant-details/cultivating-archives-and-institutional-memory-at-%22the-people's-university%22-20454686), Mellon Foundation ($2,000,000). Proposal co-author and advisory board member. </td>
+</tr>
 <tr class="odd">
 <td>2023</td>
 <td>Henry Wasser Award for Outstanding Research for Assistant Professors, CUNY Academy for the Humanities and Sciences</td>
