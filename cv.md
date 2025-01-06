@@ -251,7 +251,7 @@ Poster presented at Digital Library Federation (DLF) Forum 2013
 <tbody>
 <tr class="even">
 <td>2024-2027</td>
-<td>[Cultivating Archives and Institutional Memory at 'The People's University'](https://www.mellon.org/grant-details/cultivating-archives-and-institutional-memory-at-%22the-peoples-university%22-20454686), Mellon Foundation ($2,000,000). Proposal co-author and advisory board member. </td>
+<td><a href="https://www.mellon.org/grant-details/cultivating-archives-and-institutional-memory-at-%22the-peoples-university%22-20454686">Cultivating Archives and Institutional Memory at 'The People's University'</a>, Mellon Foundation ($2,000,000). Proposal co-author and advisory board member. </td>
 </tr>
 <tr class="odd">
 <td>2023</td>
