@@ -5,7 +5,7 @@ permalink: /cv/
 publication-date: August 2022
 ---
 
-This version mostly includes publications and conference participation. To view service and other activities, download a copy of [my full CV](/assets/Shirazi_Roxanne_CV_2024_11.pdf). You can also [view my profile in Google Scholar](https://scholar.google.com/citations?user=8wYHdBwAAAAJ&hl=en).
+This version mostly includes publications and conference participation. To view service and other activities, download a copy of [my full CV](/assets/Shirazi_Roxanne_CV_2025_05.pdf). You can also [view my profile in Google Scholar](https://scholar.google.com/citations?user=8wYHdBwAAAAJ&hl=en).
 
 
 ### EDUCATION
@@ -70,12 +70,14 @@ J. O’Sullivan (Ed.), _The Bloomsbury Handbook to the Digital Humanities_. Lond
 ### DIGITAL PROJECTS
 - [_Debates in DH Digital Project Index_](https://github.com/GC-Library/dh-index), with Stephen Zweibel, Patricia
 Belen, and Atilio Barreda. Project Co-director (2022–present).
-- [_CUNY Digital History Archive_](https://cdha.cuny.edu/), with Stephen Brier, Andrea Ades Vasquez, and Marco Battistella. Project Director (2022–present).
+- [_CUNY Digital History Archive_](https://cdha.cuny.edu/), with Stephen Brier, Marco Battistella, and Stephen Zweibel. Project Director (2022–present).
 - [_dh+lib: where the digital humanities and librarianship meet_](https://acrl.ala.org/dh), with Sarah Potvin, Zach Coble, Caro Pinto,
 John Russell, Patrick Williams, Caitlin Christian-Lamb. Founding Co-editor (2012-2018).
 
 ### INVITED TALKS
 
+- [“Libraries and Higher Education: How Can We Meet the Moment?”](https://youtu.be/QOcQ7McvBKE?si=ED0WWZbHEtqwY_mO) Panelist, Library Juice Connections webinar. May 12, 2025.
+- “Stopping the Grift: The Special Powers of Librarians and Academic Professionals in Shared Governance.” Keynote speaker, [New York State Conference of the AAUP Spring Conference](https://nyscaaup.org/2025springconference/). Rochester, NY. April 5, 2025.
 - ["Radicalism at BMCC: Selections from the CUNY Digital History Archive."](https://docs.google.com/presentation/d/19MX0aorsIslkHQYaRIUZe4LEZo4eeeaivRhSKuG-JuI/edit?usp=sharing) Part of the "Student Power: Radical Histories of CUNY" session, NYC Climate Justice Hub Fellowship Academy. June 18, 2024.
 - ["Librarianship at CUNY in the Period of Open Admissions: Notes on Reading LACUNY Journal, 1972–1977,"](https://docs.google.com/presentation/d/1VqmQsQttSQAtYS-DeeIxqGYTMOUvm5PdoiJD7LFuqpg/view) Wasser Award Lectures, CUNY Graduate Center. March 22, 2024.
 - ["Reproductive Labor and Digital Technology,"](https://demos.fsu.edu/webinars/reproductive-labor-webinar/) The Demos Project “People in Data” Webinar series. Florida State University. October 18, 2019.
