@@ -28,11 +28,11 @@ title: Blog
 <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item" href="{{ paginator.next_page_path | prepend: site.baseurl }}">
-      <span class="pagination-text">&larr;older posts</span>
+      <span class="pagination-text">&larr;&nbsp;older posts</span>
     </a>
   {% else %}
     <span class="pagination-item">
-      <span class="pagination-text">&larr;older posts</span>
+      <span class="pagination-text">&larr;&nbsp;older posts</span>
     </span>
   {% endif %}
 
@@ -40,11 +40,11 @@ title: Blog
 
   {% if paginator.previous_page %}
     <a class="pagination-item" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">
-      <span class="pagination-text">newer posts&rarr;</span> 
+      <span class="pagination-text">newer posts&nbsp;&rarr;</span> 
     </a>
   {% else %}
     <span class="pagination-item">
-      <span class="pagination-text">newer posts&rarr;</span> 
+      <span class="pagination-text">newer posts&nbsp;&rarr;</span> 
     </span>
   {% endif %}
 </div>
